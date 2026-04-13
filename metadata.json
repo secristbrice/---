@@ -1,0 +1,5 @@
+{
+  "name": "全科错题通",
+  "description": "全科通用错题学习工具，支持OCR识别、知识点提取、举一反三生成及PDF打印。",
+  "requestFramePermissions": []
+}
